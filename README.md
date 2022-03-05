@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Igor Miranda
 
-- 🔭 Hoje trabalho na TI da AGEPREV/MS - AGÊNCIA DE PREVIDÊNCIA SOCIAL DE MATO GROSSO DO SUL
-- 🌱 Estudando HTML/CSS/JS/C#/ANDROID
-- ⚡ Curiosidades: Gosto de tecnologia (óbvio!), música, jogar Xadrez, ler livros, assistir séries, filmes e desenhos
+- 💼 Hoje trabalho na TI da AGEPREV/MS - AGÊNCIA DE PREVIDÊNCIA SOCIAL DE MATO GROSSO DO SUL
+- 📚 Estudando HTML/CSS/JS/C#/ANDROID
+- 💻 Curiosidades: Gosto de tecnologia (óbvio!), música, jogar Xadrez, ler livros, assistir séries, filmes e desenhos
 
 <div align="center">
   <a href="https://github.com/IgorLimaMiranda">
