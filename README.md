@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://blog.unyleya.edu.br/wp-content/uploads/2020/03/giphy-33.gif">
+<img align="right" alt="Rafa-Csharp" height="150" width="150" src="https://camo.githubusercontent.com/f42403851a360aae9652ca79ba53089cfc12c7c4ec5f743e9e33dd428caecd7a/68747470733a2f2f692e696d6775722e636f6d2f547a6e6e31495a2e676966">
 </div>
   
   ##
@@ -33,3 +33,5 @@
 </div>
 
 <a href="https://app.daily.dev/Nerd74"><img src="https://api.daily.dev/devcards/4634ecfec5f7442a9da5ebf76a6ad904.png?r=5sr" width="400" alt="Igor Lima Miranda's Dev Card"/></a>
+
+  <img align="center" alt="Rafa-pic" height="30" width="40" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Raton.gif">
