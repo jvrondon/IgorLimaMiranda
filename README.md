@@ -34,4 +34,4 @@
 
 <a href="https://app.daily.dev/Nerd74"><img src="https://api.daily.dev/devcards/4634ecfec5f7442a9da5ebf76a6ad904.png?r=5sr" width="400" alt="Igor Lima Miranda's Dev Card"/></a>
 
-  <img align="center" alt="Rafa-pic" height="30" width="40" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Raton.gif">
+
