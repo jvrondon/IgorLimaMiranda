@@ -32,6 +32,8 @@
 ![Snake animation](https://github.com/IgorLimaMiranda/IgorLimaMiranda/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<a href="https://app.daily.dev/Nerd74"><img src="https://api.daily.dev/devcards/4634ecfec5f7442a9da5ebf76a6ad904.png?r=5sr" width="400" alt="Igor Lima Miranda's Dev Card"/></a>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<a href="https://app.daily.dev/Nerd74"><img src="https://api.daily.dev/devcards/4634ecfec5f7442a9da5ebf76a6ad904.png?r=5sr" width="400" alt="Igor Lima Miranda's Dev Card"/></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
 
 
